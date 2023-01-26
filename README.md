@@ -24,12 +24,6 @@ OPTIONAL SECTIONS:
 
 After you're finished please remove all the comments and instructions!
 -->
-
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
   <h3><b>Microverse README Template</b></h3>
 
 </div>
@@ -60,7 +54,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Morse Code Project] <a name="Morse-code-project"></a>
+# 📖 Morse Code Project <a name="Morse-code-project"></a>
 
 > This project was built with Ruby. Functions and methods were added in order to decipher a morse code message, added as a string, and converted into english alphabet characters that were all capitalised. Also linters were added to identify mistakes in code structure and corrected.
 
@@ -83,6 +77,16 @@ After you're finished please remove all the comments and instructions!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link](https://yourdeployedapplicationlink.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -93,19 +97,14 @@ To get a local copy up and running, follow these steps.
 
 Clone this repository to your desired folder:
 
-
 ```sh
   git clone https://github.com/keebot-png/Ruby_Morse_code.git
   cd Ruby_Morse_code
 ```
--
 
 ### Install
 
 Install this project with:
-
-
-Example command:
 
 ```sh
   gem install rubocop
@@ -114,8 +113,6 @@ Example command:
 ```
 
 ### Usage
-
-To run the project, execute the following command:
 
 ```sh
   rails server
@@ -141,6 +138,18 @@ To run the project, execute the following command:
 👤 **Htetaungkyaw**
 - GitHub: [@Htet](https://github.com/Htetaungkyaw71)
 - Twitter: [@twitterhandle](https://twitter.com/htetaun91907337)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[new_feature_1]**
+- [ ] **[new_feature_2]**
+- [ ] **[new_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
